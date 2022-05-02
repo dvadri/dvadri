@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvadri
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning PHP, C and Phyton.
+- 🌱 I’m currently learning PHP and Laravel.
 - 💞️ I’m looking to learn a lot from people in this community.
 
 <!---
